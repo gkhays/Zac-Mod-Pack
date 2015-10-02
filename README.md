@@ -39,4 +39,4 @@ The list of mods is as follows:
 
 ##Issues
 
-Our server started without Tinker Construct, so when we applied the mods we noticed there was no Aluminum or Copper. Once we set B:RetroactiveOreGeneration=true in config/cofh/core/common.cfg, copper and other ores "retro-gen'ed but we still did not see any aluminum. So we had to take an additional step; see the [wiki](../../wiki/).
+We began our server without Tinker Construct, so when we applied the mods we noticed there was no Aluminum or Copper. Once we set B:RetroactiveOreGeneration=true in config/cofh/core/common.cfg, copper and other ores "retro-gen'ed but we still did not see any aluminum. So we had to take an additional step; see the [wiki](../../wiki/).
