@@ -20,3 +20,19 @@ When the Forge client is started, each of the mods should be displayed.
 You can also use the mod list to confirm they are all there.
 
 ![Mod-List](images/PartialModList.PNG?raw=true "Partial Mod List")
+
+The list of mods is as follows:
+
+* BiblioCraft
+* Carpenter'sBlocks
+* Chisel
+* CodeChickenCore
+* CoFHCore
+* iChunUtil
+* Mantle
+* Morph
+* NotEnoughItems
+* SecretRoomsMod
+* TConstruct
+* ThermalExpansion
+* ThermalFoundation
