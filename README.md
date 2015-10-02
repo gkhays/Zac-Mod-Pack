@@ -1,7 +1,7 @@
 # Zac-Mod-Pack
 Forge-based Minecraft Server and Installer
 
-Featuring a Windows installer! The set-up program is created with the [NSIS](http://nsis.sourceforge.net/Main_Page "Nullsoft Scriptable Install System (NSIS)").
+Featuring a Windows installer! The set-up program is created with the [Nullsoft Scriptable Install System (NSIS)](http://nsis.sourceforge.net/Main_Page "NSIS").
 
 ![NSIS-Script](images/MakeNSISW.png?raw=true "Compile NSIS Script")
 
