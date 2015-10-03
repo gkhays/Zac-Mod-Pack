@@ -7,7 +7,7 @@ Featuring a Windows installer! The set-up program is created with the [Nullsoft 
 
 If you need Forge, the installer incudes it as an optional component.
 
-![Install-Forge](images/AskToInstallForge.PNG?raw=true "Optionally Install Forge")
+![Install-Forge](images/AskToInstallForge.png?raw=true "Optionally Install Forge")
 
 This is the completed installation.
 
@@ -19,7 +19,7 @@ When the Forge client is started, each of the mods should be displayed.
 
 You can also use the mod list to confirm they are all there.
 
-![Mod-List](images/PartialModList.PNG?raw=true "Partial Mod List")
+![Mod-List](images/PartialModList.png?raw=true "Partial Mod List")
 
 The list of mods is as follows:
 
